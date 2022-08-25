@@ -1,0 +1,19 @@
+body{
+    margin:0;
+}
+input[type=text]{
+    padding: 12%;
+    font-size: 17px;
+    border-radius: 49px;
+
+}
+input[type=button]{
+    padding: 39%;
+    border-radius: 20px;
+    margin-top: 18px;
+    margin-left: 18px;
+    margin-right: auto;
+    background-color: rgb(248, 154, 120);
+    color:#fff;
+    font-size: 20px;
+}
